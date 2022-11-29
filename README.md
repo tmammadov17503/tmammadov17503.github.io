@@ -1,1 +1,27 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9409456&assignment_repo_type=AssignmentRepo)
+
+
+ <!DOCTYPE html>
+ <html>
+
+ <head>
+
+  <link rel="stylesheet" href="styles/style.css">
+ </head>
+
+ <body class="white">
+ <div>
+ <nav  class="intro">
+   <!--Introduction about Saida Imanova-->
+  
+   
+   </h1>
+   </nav>
+
+   <div class="content">
+   <h4>Hello, my name is</h4>
+   <h1>Saida <span>Imanova</span></h1>
+   <h3>ADA University SITE Student.</h3>
+   </div>
+   
+   My name is Saida Imanova. I am a freshman student in Computering Engineering of ADA university. I was admitted in 2022 and opened my cinema club in ADA university. Now, i am working with team02.
+   
