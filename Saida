@@ -1,0 +1,78 @@
+<SaidaImanova class="html"></SaidaImanova>
+
+
+<!DOCTYPE html>
+ <html>
+
+ <head>
+
+  <link rel="stylesheet" href="styles/style.css">
+ </head>
+
+ <body class="white">
+ <div>
+ <nav  class="intro">
+   <!--Introduction about Saida Imanova-->
+  
+   
+   </h1>
+   </nav>
+
+   <div class="content">
+   <h4>Hello, my name is</h4>
+   <h1>Saida <span>Imanova</span></h1>
+   <h3>ADA University SITE Student.</h3>
+   </div>
+   
+   My name is Saida Imanova. I am a freshman student in Computering Engineering of ADA university. I was admitted in 2022 and opened my cinema club in ADA university. Now, i am working with team02.
+   
+
+SaidaImanova.css
+html {
+   width: 100%;
+   height: 100%;
+ }
+
+ .info {
+   font-size: 30px;
+ }
+
+ h2 {
+   text-align: center;
+   font-size: 35px;
+
+ }
+
+ body {
+   background-image: url(https://i.redd.it/i03qrtc24ol41.jpg);
+   background-size: 300% 300%;
+   background-position: center;
+   background-repeat: no-repeat;
+ }
+
+ .intro {
+   display: flex;
+   justify-content: center;
+   color: white;
+   letter-spacing: 1px;
+   cursor: pointer;
+ }
+
+ .white {
+   color: white;
+ }
+
+ .navbar-menu {
+   display: inline-block;
+ }
+
+ span {
+   color: #c42b0c;
+ }
+
+ nav ul li {
+   list-style-type: none;
+   display: inline-block;
+   padding: 10px 25px;
+}
+
