@@ -7,7 +7,7 @@
       <li>Saida Imanova</li>
       <li>Artem Chushev</li>
       <li>Murad Asadov</li>
-      <li>taghi Mammadov</li>
+      <li>Taghi Mammadov</li>
     </ul>
   <h1>Homework 3: How websites work?</h1>
   <h3>Website:</h3>
